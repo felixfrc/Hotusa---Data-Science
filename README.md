@@ -1,1 +1,1 @@
-# Hotusa---Data-Science
+# Hotusa Data-Science
